@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\ExcelWeb\\BackendExcel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{59A5F5D0-D18F-49EE-9DAF-2473ED790204}|..\\DAL\\DAL.csproj|c:\\users\\user\\documents\\progarms\\documents\\jvit\\internship\\mydummy\\excelweb\\dal\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F96D0D-07B9-4C9E-B757-3D3529F54B5C}|BackendExcel.csproj|c:\\users\\user\\documents\\progarms\\documents\\jvit\\internship\\mydummy\\excelweb\\backendexcel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7F96D0D-07B9-4C9E-B757-3D3529F54B5C}|BackendExcel.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F96D0D-07B9-4C9E-B757-3D3529F54B5C}|BackendExcel.csproj|c:\\users\\user\\documents\\progarms\\documents\\jvit\\internship\\mydummy\\excelweb\\backendexcel\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F7F96D0D-07B9-4C9E-B757-3D3529F54B5C}|BackendExcel.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6AE7D1E-F09B-445C-9340-84E0C044AF0E}|..\\BLL\\BLL.csproj|c:\\users\\user\\documents\\progarms\\documents\\jvit\\internship\\mydummy\\excelweb\\bll\\services\\emailservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F96D0D-07B9-4C9E-B757-3D3529F54B5C}|BackendExcel.csproj|c:\\users\\user\\documents\\progarms\\documents\\jvit\\internship\\mydummy\\excelweb\\backendexcel\\controllers\\emailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7F96D0D-07B9-4C9E-B757-3D3529F54B5C}|BackendExcel.csproj|solutionrelative:controllers\\emailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59A5F5D0-D18F-49EE-9DAF-2473ED790204}|..\\DAL\\DAL.csproj|c:\\users\\user\\documents\\progarms\\documents\\jvit\\internship\\mydummy\\excelweb\\dal\\models\\recipient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59A5F5D0-D18F-49EE-9DAF-2473ED790204}|..\\DAL\\DAL.csproj|c:\\users\\user\\documents\\progarms\\documents\\jvit\\internship\\mydummy\\excelweb\\dal\\models\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59A5F5D0-D18F-49EE-9DAF-2473ED790204}|..\\DAL\\DAL.csproj|c:\\users\\user\\documents\\progarms\\documents\\jvit\\internship\\mydummy\\excelweb\\dal\\repository\\recipientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59A5F5D0-D18F-49EE-9DAF-2473ED790204}|..\\DAL\\DAL.csproj|c:\\users\\user\\documents\\progarms\\documents\\jvit\\internship\\mydummy\\excelweb\\dal\\interface\\irecipientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6AE7D1E-F09B-445C-9340-84E0C044AF0E}|..\\BLL\\BLL.csproj|c:\\users\\user\\documents\\progarms\\documents\\jvit\\internship\\mydummy\\excelweb\\bll\\dtos\\emailrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59A5F5D0-D18F-49EE-9DAF-2473ED790204}|..\\DAL\\DAL.csproj|c:\\users\\user\\documents\\progarms\\documents\\jvit\\internship\\mydummy\\excelweb\\dal\\repository\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59A5F5D0-D18F-49EE-9DAF-2473ED790204}|..\\DAL\\DAL.csproj|c:\\users\\user\\documents\\progarms\\documents\\jvit\\internship\\mydummy\\excelweb\\dal\\interface\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RecipientRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\ExcelWeb\\DAL\\Repository\\RecipientRepository.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\Repository\\RecipientRepository.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\ExcelWeb\\DAL\\Repository\\RecipientRepository.cs",
+              "RelativeToolTip": "..\\DAL\\Repository\\RecipientRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAwwBIAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T05:20:21.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IRecipientRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\ExcelWeb\\DAL\\Interface\\IRecipientRepository.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\Interface\\IRecipientRepository.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\ExcelWeb\\DAL\\Interface\\IRecipientRepository.cs",
+              "RelativeToolTip": "..\\DAL\\Interface\\IRecipientRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T05:19:25.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Recipient.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\ExcelWeb\\DAL\\Models\\Recipient.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\Models\\Recipient.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\ExcelWeb\\DAL\\Models\\Recipient.cs",
+              "RelativeToolTip": "..\\DAL\\Models\\Recipient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T05:18:23.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\ExcelWeb\\DAL\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\ExcelWeb\\DAL\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "..\\DAL\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T05:17:40.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\ExcelWeb\\DAL\\Repository\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\Repository\\StudentRepository.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\ExcelWeb\\DAL\\Repository\\StudentRepository.cs",
+              "RelativeToolTip": "..\\DAL\\Repository\\StudentRepository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T04:43:38.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IStudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\ExcelWeb\\DAL\\Interface\\IStudentRepository.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\Interface\\IStudentRepository.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\ExcelWeb\\DAL\\Interface\\IStudentRepository.cs",
+              "RelativeToolTip": "..\\DAL\\Interface\\IStudentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T04:43:06.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EmailRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\ExcelWeb\\BLL\\DTOs\\EmailRequestDto.cs",
+              "RelativeDocumentMoniker": "..\\BLL\\DTOs\\EmailRequestDto.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\ExcelWeb\\BLL\\DTOs\\EmailRequestDto.cs",
+              "RelativeToolTip": "..\\BLL\\DTOs\\EmailRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T13:33:27.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmailServices.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\ExcelWeb\\BLL\\Services\\EmailServices.cs",
+              "RelativeDocumentMoniker": "..\\BLL\\Services\\EmailServices.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\ExcelWeb\\BLL\\Services\\EmailServices.cs",
+              "RelativeToolTip": "..\\BLL\\Services\\EmailServices.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAgwFUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T13:31:01.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmailController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\ExcelWeb\\BackendExcel\\Controllers\\EmailController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmailController.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\ExcelWeb\\BackendExcel\\Controllers\\EmailController.cs",
+              "RelativeToolTip": "Controllers\\EmailController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAmwCgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T13:28:43.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Email.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\ExcelWeb\\DAL\\Models\\Email.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\Models\\Email.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\ExcelWeb\\DAL\\Models\\Email.cs",
+              "RelativeToolTip": "..\\DAL\\Models\\Email.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T13:18:06.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\ExcelWeb\\BackendExcel\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\ExcelWeb\\BackendExcel\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-27T13:03:17.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\ExcelWeb\\BackendExcel\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\progarms\\Documents\\JVIT\\Internship\\MyDummy\\ExcelWeb\\BackendExcel\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T13:01:54.714Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

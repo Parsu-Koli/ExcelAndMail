@@ -1,0 +1,90 @@
+﻿@model List<ExcelMvc.Models.Student>
+
+@{
+    ViewData["Title"] = "Students Data";
+}
+
+<h2 class="page-title">Students Data</h2>
+
+<div class="table-container">
+    <table class="table custom-table">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Name</th>
+                <th>Email</th>
+                <th>Age</th>
+            </tr>
+        </thead>
+
+        <tbody>
+            @foreach (var s in Model)
+            {
+                <tr>
+                    <td>@s.Id</td>
+                    <td>@s.Name</td>
+                    <td>@s.Email</td>
+                    <td>@s.Age</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+<style>
+    .page-title {
+        text-align: center;
+        font-weight: 700;
+        margin-top: 20px;
+        margin-bottom: 30px;
+        text-transform: uppercase;
+        color: #333;
+        letter-spacing: 1px;
+    }
+
+    .table-container {
+        width: 90%;
+        margin: auto;
+        background: #ffffff;
+        padding: 20px;
+        border-radius: 10px;
+        box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+
+    .custom-table {
+        width: 100%;
+        border-collapse: separate;
+        border-spacing: 0 10px;
+    }
+
+    .custom-table thead tr {
+        background: #3d5afe;
+        color: white;
+        text-align: center;
+    }
+
+    .custom-table tbody tr {
+        background: #f4f6ff;
+        transition: 0.3s ease;
+    }
+
+    .custom-table tbody tr:hover {
+        background: #e0e5ff;
+        transform: scale(1.01);
+    }
+
+    .custom-table th, .custom-table td {
+        padding: 12px 18px;
+        border: none;
+        text-align: center;
+    }
+
+    .custom-table th {
+        font-size: 15px;
+        font-weight: bold;
+    }
+
+    .custom-table td {
+        font-size: 14px;
+    }
+</style>

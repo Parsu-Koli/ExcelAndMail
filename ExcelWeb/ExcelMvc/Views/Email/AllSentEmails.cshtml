@@ -1,0 +1,28 @@
+﻿@model List<Email>
+
+<h2 class="text-center">All Sent Emails</h2>
+
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>To Email</th>
+            <th>Subject</th>
+            <th>Body</th>
+            <th>Sent Date</th>
+            <th>Status</th>
+        </tr>
+    </thead>
+
+    <tbody>
+        @foreach (var email in Model)
+        {
+            <tr>
+                <td>@email.ToEmail</td>
+                <td>@email.Subject</td>
+                <td>@email.Body</td>
+                <td>@email.SentDate.ToString("dd-MM-yyyy hh:mm tt")</td>
+                <td>@email.Status</td>
+            </tr>
+        }
+    </tbody>
+</table>

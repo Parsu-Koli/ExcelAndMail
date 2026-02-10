@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36203.30 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackendExcel", "BackendExcel.csproj", "{F7F96D0D-07B9-4C9E-B757-3D3529F54B5C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "..\DAL\DAL.csproj", "{59A5F5D0-D18F-49EE-9DAF-2473ED790204}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "..\BLL\BLL.csproj", "{C6AE7D1E-F09B-445C-9340-84E0C044AF0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7F96D0D-07B9-4C9E-B757-3D3529F54B5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7F96D0D-07B9-4C9E-B757-3D3529F54B5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7F96D0D-07B9-4C9E-B757-3D3529F54B5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7F96D0D-07B9-4C9E-B757-3D3529F54B5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59A5F5D0-D18F-49EE-9DAF-2473ED790204}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59A5F5D0-D18F-49EE-9DAF-2473ED790204}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59A5F5D0-D18F-49EE-9DAF-2473ED790204}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59A5F5D0-D18F-49EE-9DAF-2473ED790204}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6AE7D1E-F09B-445C-9340-84E0C044AF0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6AE7D1E-F09B-445C-9340-84E0C044AF0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6AE7D1E-F09B-445C-9340-84E0C044AF0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6AE7D1E-F09B-445C-9340-84E0C044AF0E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {86CD4062-FF3E-4883-8438-4C6EE9F52DC4}
+	EndGlobalSection
+EndGlobal

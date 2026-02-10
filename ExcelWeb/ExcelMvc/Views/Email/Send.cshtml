@@ -1,0 +1,62 @@
+﻿@model Email
+
+<h2 class="text-center">Send Email to Multiple Users</h2>
+
+@if (TempData["msg"] != null)
+{
+    <p class="alert alert-info">@TempData["msg"]</p>
+}
+
+<form asp-action="Send" method="post">
+
+    <div class="mb-3">
+        <label><strong>Select Emails</strong></label>
+        <div class="form-check mb-2">
+            <input type="checkbox" class="form-check-input" onclick="toggle(this)" />
+            <label class="form-check-label fw-bold">Select All Users</label>
+        </div>
+
+        @if (ViewBag.AllEmails != null)
+        {
+            foreach (var email in ViewBag.AllEmails as List<string>)
+            {
+                <div class="form-check">
+                    <input class="form-check-input"
+                           type="checkbox"
+                           name="SelectedEmails"
+                           value="@email" />
+
+                    <label class="form-check-label">
+                        @email
+                    </label>
+                </div>
+            }
+        }
+        else
+        {
+            <p>No emails found.</p>
+        }
+    </div>
+
+    <div class="mb-3">
+        <label><strong>Subject</strong></label>
+        <input asp-for="Subject" class="form-control" required />
+    </div>
+
+    <div class="mb-3">
+        <label><strong>Body</strong></label>
+        <textarea asp-for="Body" class="form-control" rows="5" required></textarea>
+    </div>
+
+    <button type="submit" class="btn btn-primary w-100">Send Email</button>
+</form>
+
+
+<script>
+    function toggle(source) {
+        let checkboxes = document.getElementsByName('SelectedEmails');
+        for (let i = 0; i < checkboxes.length; i++) {
+            checkboxes[i].checked = source.checked;
+        }
+    }
+</script>
